@@ -4,7 +4,7 @@ go 1.19
 
 require (
 	github.com/mattn/go-colorable v0.1.13
-	github.com/mattn/go-isatty v0.0.16
+	github.com/mattn/go-isatty v0.0.17
 	github.com/mattn/go-runewidth v0.0.14
 	github.com/valyala/fasthttp v1.41.0
 	golang.org/x/sys v0.0.0-20220811171246-fbc7d0a398ab
